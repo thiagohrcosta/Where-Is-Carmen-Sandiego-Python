@@ -4,8 +4,7 @@
 ## Technologies used
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 
-This project was created using Docker to studying the basic concepts of Python learned at day 06  in the **[100 Days of Code: The Complete Python Pro Bootcamp]
-(https://www.udemy.com/course/100-days-of-code/)**.  This project is not part of the course curriculum, but it was used to fix some knowledge learned during the sixth day, using small functions to control the flow of the application.
+This project was created using Docker to studying the basic concepts of Python learned at day 06  in the **[100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/)**.  This project is not part of the course curriculum, but it was used to fix some knowledge learned during the sixth day, using small functions to control the flow of the application.
 
 ## Summary
 **Day 06**: Functions
