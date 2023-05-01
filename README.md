@@ -12,6 +12,7 @@ This project was created using Docker to studying the basic concepts of Python l
 **Plus:** To better control the flow of the application and to apply more complex concepts from the beginning to simple projects, including SOLID, two files were created where hash arrays are stored, this makes calls to apply random functions to select locations easier, actions and countries that will be shown to the user.
 
 ## What user can do?
+![enter image description here](https://res.cloudinary.com/dloadb2bx/image/upload/v1682969221/carmen2_guotog.png)
 
 **User:** At the beginning of the application, the user must enter his agent name. After that random functions are called to determine which location, action and country Carmen Sandiego is. After that, information is generated asking which country has a certain flag. The user will have to choose between the 3 available options. If it hits, it will gain experience and remove life points from Carmen Sandiego, if it misses, the user will lose life points. The game ends when one of the two (user or Carmen Sandiego) reaches zero life points.
 
